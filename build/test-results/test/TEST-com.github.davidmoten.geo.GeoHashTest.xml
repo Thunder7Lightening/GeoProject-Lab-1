@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.GeoHashTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2018-04-01T12:38:08" hostname="my-laptop" time="0.094">
+  <properties/>
+  <testcase name="bottom" classname="com.github.davidmoten.geo.GeoHashTest" time="0.016"/>
+  <testcase name="encodeHashToLong" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="adjacentHash_BOTTOM" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="hashLengthToCoverBoundingBox" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="heightDegrees_withParamGreaterThanMAX_HASH_LENGTH" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="encodeHash" classname="com.github.davidmoten.geo.GeoHashTest" time="0.016"/>
+  <testcase name="coverBoundingBox" classname="com.github.davidmoten.geo.GeoHashTest" time="0.031"/>
+  <testcase name="adjacentHash_LEFT" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="top" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="left" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="right" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="widthDegrees_withParamGreaterThanMAX_HASH_LENGTH" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="neighbours" classname="com.github.davidmoten.geo.GeoHashTest" time="0.016"/>
+  <testcase name="adjacentHash_withParamStepsIsPositive" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="adjacentHash_withParamStepsIsNegative" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="widthDegrees" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="gridAsString" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="calculateHeightDegrees_byMethodHeightDegrees_withParamIsEven" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="heightDegrees" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="adjacentHash_RIGHT" classname="com.github.davidmoten.geo.GeoHashTest" time="0.015"/>
+  <testcase name="adjacentHash_TOP" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="hashContains" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="fromLongToString" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

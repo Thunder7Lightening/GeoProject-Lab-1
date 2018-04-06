@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.CoverageLongsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-04-01T12:38:08" hostname="my-laptop" time="0.0">
+  <properties/>
+  <testcase name="getHashLength_withCountIsZero" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.0"/>
+  <testcase name="getHashLength" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.0"/>
+  <testcase name="getHashes" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.0"/>
+  <testcase name="getCount" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.0"/>
+  <testcase name="getRatio" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
